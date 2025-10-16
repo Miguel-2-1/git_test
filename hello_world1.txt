@@ -8,3 +8,5 @@ diferentes partes.
 palabras.
 Puedo probar otro tipo de archivos.
 por ejemplo este archivo.
+voy a probar sin los controles de la terminal.
+Y otros.
